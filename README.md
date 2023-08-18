@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/elmo-júnior">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
- 
-![snake gif](https://github.com/Elmo-Jr/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Elmo-Jr/Elmo-Jr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
