@@ -29,9 +29,9 @@
 
 <div>
 
-<a href="fco.elmo.jr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="fco.elmo.jr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<a href="https://www.linkedin.com/in/elmo-júnior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/elmo-júnior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
 ![snake gif](https://github.com/Elmo-Jr/Elmo-Jr/blob/output/github-contribution-grid-snake.svg)
 
